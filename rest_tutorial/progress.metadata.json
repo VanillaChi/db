@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"rest_tutorial.progress"}],"uuid":"a918459853ef4c8cbccfec004bbf75b3"}
