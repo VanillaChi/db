@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"picode.users"}],"uuid":"c07f5ab23ff94afc9e19a4ad3999c1c2"}
